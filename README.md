@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sandycrn2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: idk jasbadajjaaja
 
 <!---
 Elia-Chandy/Elia-Chandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
