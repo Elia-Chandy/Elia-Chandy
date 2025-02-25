@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Elia-Chandy
 - 👀 I’m interested in art and kittens <3
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sandycrn2@gmail.com
 
 <!---
